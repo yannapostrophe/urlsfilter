@@ -10,7 +10,7 @@ import (
 	"github.com/fatih/color"
 )
 
-// go run maing.go -l "urls_file_path" -o "output_file_path" -u true -r "url_to_filter"
+// go run main.go -l "urls_file_path" -o "output_file_path" -u true -r "url_to_filter"
 
 func main() {
 	logo := `
